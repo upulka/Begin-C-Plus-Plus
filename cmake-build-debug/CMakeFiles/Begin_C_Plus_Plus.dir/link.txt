@@ -1,0 +1,3 @@
+"D:\Installations\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Begin_C_Plus_Plus.dir/objects.a
+D:\msys64-tharindu\mingw64\bin\ar.exe cr CMakeFiles\Begin_C_Plus_Plus.dir/objects.a @CMakeFiles\Begin_C_Plus_Plus.dir\objects1.rsp
+D:\msys64-tharindu\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Begin_C_Plus_Plus.dir/objects.a -Wl,--no-whole-archive -o Begin_C_Plus_Plus.exe -Wl,--out-implib,libBegin_C_Plus_Plus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Begin_C_Plus_Plus.dir\linklibs.rsp
