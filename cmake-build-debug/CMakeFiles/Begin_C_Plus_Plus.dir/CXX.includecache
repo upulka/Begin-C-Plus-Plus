@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Career/#_Self Study/C-Plus-Plus/Begin-C-Plus-Plus/main.cpp
+iostream
+-
+variables.cpp
+D:/Career/#_Self Study/C-Plus-Plus/Begin-C-Plus-Plus/variables.cpp
+strings.cpp
+D:/Career/#_Self Study/C-Plus-Plus/Begin-C-Plus-Plus/strings.cpp
+
+D:/Career/#_Self Study/C-Plus-Plus/Begin-C-Plus-Plus/strings.cpp
+iostream
+-
+string
+-
+
+D:/Career/#_Self Study/C-Plus-Plus/Begin-C-Plus-Plus/variables.cpp
+iostream
+-
+string
+-
+
